@@ -1,3 +1,6 @@
 # Sora_Godong
-MSG 안드로이드 프로젝트<br>
-[🔗 노션 ](https://www.notion.so/fb0a530b2d8e44dbbebf9d29998810b3)
+### MSG 안드로이드 프로젝트 : 운세 애플리케이션
+동아리 프로젝트로 기본적인 xml, java 기능을 사용하여 안드로이드 스튜디오를 이해할 수 있는 프로젝트였습니다. <br>
+각 카테고리에 따라 운세를 랜덤으로 볼 수 있는 기능을 구현하였습니다. <br><br>
+
+[🔗 MSG 노션 : 기획, 회고 등](https://www.notion.so/fb0a530b2d8e44dbbebf9d29998810b3)
